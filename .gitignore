@@ -1,3 +1,5 @@
-.venv
-php0iVrYT.arff
-ACTIVIDAD_3_Apellido_Nombre_Grupo_Numero.docx
+# Ignorar todo
+*
+
+# Excluir carpeta específica de la regla de ignorar
+!Actividad.ipynb/
